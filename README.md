@@ -3,6 +3,8 @@
 **LLS** - это универсальная система логирования для Python приложений.
 Позволяет разделять логи по категориям (debug, info, warning, error, critical) и создавать отдельные директории для разных модулей.
 
+[Проект на PyPi.org!](https://pypi.org/project/EOF-413-LLS/)
+
 ## Особенности
 
 - Разделение логов по уровням: debug, info, warning, error, critical
